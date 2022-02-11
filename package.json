@@ -1,0 +1,23 @@
+{
+  "name": "ionic-oss-license",
+  "version": "0.0.1",
+  "description": "License list generator for ionic app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takuya-nakayasu/ionic-oss-license.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takuya-nakayasu/ionic-oss-license/issues"
+  },
+  "homepage": "https://github.com/takuya-nakayasu/ionic-oss-license#readme",
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "typescript": "^4.5.5"
+  }
+}
